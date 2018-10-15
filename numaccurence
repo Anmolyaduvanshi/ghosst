@@ -1,0 +1,4 @@
+array=(input("enter number for array"))
+n=(input("enert number for cheking"))
+array.count(n)
+print("number accurence is"  ,array.count(n))
